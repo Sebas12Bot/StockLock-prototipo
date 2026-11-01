@@ -1,4 +1,4 @@
-// Historial de Movimientos (Stitch): consulta con filtros por producto, lote y tipo.
+// Historial de Movimientos: consulta con filtros por producto, lote y tipo.
 import { store } from '../services/demoStore.js';
 import { formatoFechaHora } from '../domain/dates.js';
 import { badgeTipo, esc, filaVacia, icon } from '../ui/components.js';

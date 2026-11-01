@@ -88,7 +88,7 @@ export function toast(mensaje, tipo = 'info') {
 let alCerrar = null;
 
 /**
- * Abre un modal (diálogo nivel 3 de Stitch). El contenido no se re-renderiza al
+ * Abre un modal (diálogo de nivel 3). El contenido no se re-renderiza al
  * cambiar los datos, para no perder lo que el usuario está escribiendo.
  * @param {string} html  Contenido completo de la tarjeta del modal
  * @param {{ ancho?: string, lateral?: boolean, onClose?: () => void }} [opciones]

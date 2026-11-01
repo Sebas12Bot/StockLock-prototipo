@@ -1,4 +1,4 @@
-// Tokens de diseño exportados por Google Stitch (sin cambios).
+// Tokens de diseño: colores, radios y tipografía.
 tailwind.config = {
   theme: {
     extend: {

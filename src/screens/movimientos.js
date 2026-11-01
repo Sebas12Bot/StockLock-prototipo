@@ -1,4 +1,4 @@
-// Operaciones de Entrada y Salida (Stitch): accesos al modal y transacciones recientes.
+// Operaciones de Entrada y Salida: accesos al modal y transacciones recientes.
 import { store } from '../services/demoStore.js';
 import { hoyISO, formatoFecha, formatoFechaHora } from '../domain/dates.js';
 import { badgeTipo, esc, filaVacia, icon } from '../ui/components.js';

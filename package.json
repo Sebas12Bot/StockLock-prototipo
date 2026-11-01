@@ -2,7 +2,7 @@
   "name": "stocklock-prototipo",
   "version": "0.1.0",
   "private": true,
-  "description": "Prototipo funcional de StockLock (inventario de insumos médicos por lotes) basado en el diseño de Google Stitch.",
+  "description": "Prototipo funcional de StockLock (inventario de insumos médicos por lotes).",
   "type": "module",
   "scripts": {
     "start": "node scripts/serve.mjs",

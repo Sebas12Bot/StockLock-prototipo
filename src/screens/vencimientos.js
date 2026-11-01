@@ -1,4 +1,4 @@
-// Control de Vencimientos (Stitch): próximos a vencer, vencidos y sin fecha.
+// Control de Vencimientos: próximos a vencer, vencidos y sin fecha.
 import { store } from '../services/demoStore.js';
 import { clasificarVencimiento, textoDias } from '../domain/expiry.js';
 import { formatoFecha } from '../domain/dates.js';

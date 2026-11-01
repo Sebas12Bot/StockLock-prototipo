@@ -1,4 +1,4 @@
-// Catálogo de Productos (Stitch) + drawer "Registrar Nuevo Producto".
+// Catálogo de Productos + drawer "Registrar Nuevo Producto".
 import { store, crearProducto } from '../services/demoStore.js';
 import { clasificarVencimiento } from '../domain/expiry.js';
 import { UNIDADES } from '../domain/catalog.js';

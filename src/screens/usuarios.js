@@ -1,4 +1,4 @@
-// Gestión de Usuarios y Roles (Stitch). Solo visualización: la administración
+// Gestión de Usuarios y Roles. Solo visualización: la administración
 // real de usuarios queda fuera del alcance del prototipo.
 import { store } from '../services/demoStore.js';
 import { badgeRol, esc, icon } from '../ui/components.js';

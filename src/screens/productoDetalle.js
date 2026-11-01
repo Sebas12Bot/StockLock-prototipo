@@ -1,4 +1,4 @@
-// Ficha de Producto y Lotes Asociados (Stitch) + modal "Crear Nuevo Lote".
+// Ficha de Producto y Lotes Asociados + modal "Crear Nuevo Lote".
 import { store, crearLote } from '../services/demoStore.js';
 import { clasificarVencimiento, siguienteLotePEPS, textoDias } from '../domain/expiry.js';
 import { formatoFecha, hoyISO } from '../domain/dates.js';
