@@ -6,6 +6,14 @@ entre pantallas y destaca la **integridad del inventario ante modificaciones sim
 
 No es el MVP ni el producto final.
 
+## Acceso al prototipo
+
+StockLock cuenta con una versión desplegada en Vercel que permite explorar y probar sus interfaces directamente desde el navegador, sin necesidad de instalar dependencias ni ejecutar el proyecto localmente.
+
+**Enlace de acceso:** https://stocklock-prototipo.vercel.app
+
+También puedes consultar el código fuente y las instrucciones para ejecutar el proyecto localmente en este repositorio.
+
 ## Requisitos
 
 - Node.js 18 o superior (sin dependencias, sin build, sin Docker).
